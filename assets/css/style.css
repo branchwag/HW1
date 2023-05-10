@@ -58,12 +58,14 @@ p {
     background-position: center;
 }
 
-.float-left {
+/* Below content blocks can be aligned depending on type1 or type2 class*/
+
+.type1contentblock {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.type2contentblock {
     float: right;
     margin-left: 25px;
 }
