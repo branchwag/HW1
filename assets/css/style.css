@@ -54,17 +54,18 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
 
-.float-left {
+/* Below content blocks can be aligned depending on type1 or type2 class*/
+
+.type1contentblock {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.type2contentblock {
     float: right;
     margin-left: 25px;
 }
