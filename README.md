@@ -28,11 +28,11 @@ N/A - No installation required! This is a basic website only.
 
 ## Usage
 
-Visit the website by going to ----
+Visit the website!
 
 Screenshot below:
 
-![alt text](assets/screenshot.png)
+![Screenshot](assets/images/Screenshot.png)
 
 ## Credits
 
@@ -40,7 +40,7 @@ Columbia Engineering Coding Boot Camp
 
 ## License
 
-MIT License
+N/A
 
 ## Badges
 
@@ -48,7 +48,7 @@ N/A
 
 ## Features
 
-N/A (this project was simply a code clean-up).
+N/A (This project was simply a code clean-up).
 
 ## How to Contribute
 
