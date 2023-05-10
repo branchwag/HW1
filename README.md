@@ -1,4 +1,4 @@
-# <Homework 1 (Module 1 Challenge) - Refactoring a Website >
+# Homework 1 (Module 1 Challenge) - Refactoring a Website 
 
 ## Description
 
