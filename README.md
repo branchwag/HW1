@@ -28,7 +28,7 @@ N/A - No installation required! This is a basic website only.
 
 ## Usage
 
-Visit the website via https://branchwag.github.io/HW1/
+Visit the website via https://branchwag.github.io/HW1---Website-Refactor/
 
 Screenshot below:
 
